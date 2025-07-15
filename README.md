@@ -33,7 +33,7 @@ PythonとPowerAutomateを用いて、PDFから非構造化データ(図と表)�
     <img width="943" height="131" alt="image" src="https://github.com/user-attachments/assets/382fa85e-d467-48a1-9a75-2f7b6f40a82f" />
 
     これらのJSONファイルは画像ごとに分かれてしまっているため、最後に1つのテキストファイルに合体し、txtファイル化する（GENEOSにはjsonファイルはアップロードできないため）。  
-    この合体版txtファイルを、GENEOSのナレッジフォルダに格納して用いる。
+    この合体版txtファイル(【PDF名】図表の構造化データ.txt)を、GENEOSのナレッジフォルダに格納して用いる。
 
     **[全処理完了時のフォルダとファイル]**  
    <img width="424" height="863" alt="image" src="https://github.com/user-attachments/assets/088e6fd0-f105-4669-94f3-42dbb4b46873" />
